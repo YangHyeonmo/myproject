@@ -1,0 +1,49 @@
+,종목1,종목2,종목3,종목4,종목5,코드1,코드2,코드3,코드4,코드5,
+2013-01-01,캐피털 원 파이낸셜,바이오젠,애플,슐럼버거,할리버튼,COF.UN.Equity,BIIB.UW.Equity,AAPL.UW.Equity,SLB.UN.Equity,HAL.UN.Equity,66.01819104
+2013-02-01,바이오젠,모간스탠리,엑슨 모빌,옥시덴털 페트롤리움,월트 디즈니,BIIB.UW.Equity,MS.UN.Equity,XOM.UN.Equity,OXY.UN.Equity,DIS.UN.Equity,95.01880965
+2013-03-01,애플,존슨앤드존슨,페덱스,블랙록,모간스탠리,AAPL.UW.Equity,JNJ.UN.Equity,FDX.UN.Equity,BLK.UN.Equity,MS.UN.Equity,45.26718827
+2013-04-01,스트라이커,쓰리엠,아메리칸 타워,일라이 릴리,존슨앤드존슨,SYK.UN.Equity,MMM.UN.Equity,AMT.UN.Equity,LLY.UN.Equity,JNJ.UN.Equity,30.39842612
+2013-05-01,블랙록,U.S. 뱅코프,옥시덴털 페트롤리움,몬산토,바이오젠,BLK.UN.Equity,USB.UN.Equity,OXY.UN.Equity,MON.UN.Equity,BIIB.UW.Equity,45.51969048
+2013-06-01,뉴욕멜론은행,보잉,퀄컴,페덱스,애플,BK.UN.Equity,BA.UN.Equity,QCOM.UW.Equity,FDX.UN.Equity,AAPL.UW.Equity,48.62338434
+2013-07-01,애플,모간스탠리,써모 피셔 사이언티픽,존슨앤드존슨,블랙록,AAPL.UW.Equity,MS.UN.Equity,TMO.UN.Equity,JNJ.UN.Equity,BLK.UN.Equity,53.68447908
+2013-08-01,모간스탠리,애플,홈디포,다우 케미컬,애트나,MS.UN.Equity,AAPL.UW.Equity,HD.UN.Equity,DOW.UN.Equity,AET.UN.Equity,47.93752256
+2013-09-01,써모 피셔 사이언티픽,블랙록,EOG 리소시스,애플,레이티온,TMO.UN.Equity,BLK.UN.Equity,EOG.UN.Equity,AAPL.UW.Equity,RTN.UN.Equity,49.19470792
+2013-10-01,애플,코스트코 홀세일,모간스탠리,프라이스라인 그룹,아메리칸 타워,AAPL.UW.Equity,COST.UW.Equity,MS.UN.Equity,PCLN.UW.Equity,AMT.UN.Equity,79.45921616
+2013-11-01,애트나,다우 케미컬,록히드 마틴,레이티온,유나이티드헬스 그룹,AET.UN.Equity,DOW.UN.Equity,LMT.UN.Equity,RTN.UN.Equity,UNH.UN.Equity,56.32681676
+2013-12-01,모간스탠리,푸르덴셜 파이낸셜,블랙록,몬산토,스트라이커,MS.UN.Equity,PRU.UN.Equity,BLK.UN.Equity,MON.UN.Equity,SYK.UN.Equity,75.99392059
+2014-01-01,써모 피셔 사이언티픽,옥시덴털 페트롤리움,엑슨 모빌,넥스트에라 에너지,셰브론,TMO.UN.Equity,OXY.UN.Equity,XOM.UN.Equity,NEE.UN.Equity,CVX.UN.Equity,45.65720096
+2014-02-01,애트나,셰브론,다우 케미컬,보잉,몬산토,AET.UN.Equity,CVX.UN.Equity,DOW.UN.Equity,BA.UN.Equity,MON.UN.Equity,47.47429167
+2014-03-01,몬산토,뉴욕멜론은행,존슨앤드존슨,EOG 리소시스,보잉,MON.UN.Equity,BK.UN.Equity,JNJ.UN.Equity,EOG.UN.Equity,BA.UN.Equity,62.62496112
+2014-04-01,몬산토,퀄컴,뉴욕멜론은행,IBM,모간스탠리,MON.UN.Equity,QCOM.UW.Equity,BK.UN.Equity,IBM.UN.Equity,MS.UN.Equity,55.43998218
+2014-05-01,인텔,시스코 시스템즈,홈디포,코스트코 홀세일,보잉,INTC.UW.Equity,CSCO.UW.Equity,HD.UN.Equity,COST.UW.Equity,BA.UN.Equity,53.57979559
+2014-06-01,몬산토,퀄컴,머크,유나이티드헬스 그룹,할리버튼,MON.UN.Equity,QCOM.UW.Equity,MRK.UN.Equity,UNH.UN.Equity,HAL.UN.Equity,46.74941368
+2014-07-01,암젠,할리버튼,로우스,캐터필러,스트라이커,AMGN.UW.Equity,HAL.UN.Equity,LOW.UN.Equity,CAT.UN.Equity,SYK.UN.Equity,78.37182858
+2014-08-01,퀄컴,블랙록,IBM,넥스트에라 에너지,캐피털 원 파이낸셜,QCOM.UW.Equity,BLK.UN.Equity,IBM.UN.Equity,NEE.UN.Equity,COF.UN.Equity,48.71854601
+2014-09-01,도미니언 리소시스,골드만 삭스,유나이티드헬스 그룹,브리스톨-마이어스 스큅,할리버튼,D.UN.Equity,GS.UN.Equity,UNH.UN.Equity,BMY.UN.Equity,HAL.UN.Equity,38.56453128
+2014-10-01,슐럼버거,써모 피셔 사이언티픽,코스트코 홀세일,스트라이커,메드트로닉,SLB.UN.Equity,TMO.UN.Equity,COST.UW.Equity,SYK.UN.Equity,MDT.UN.Equity,90.1813391
+2014-11-01,로우스,INTC,마이크로소프트,몬산토,메드트로닉,LOW.UN.Equity,INTC.UW.Equity,MSFT.UW.Equity,MON.UN.Equity,MDT.UN.Equity,59.93109297
+2014-12-01,일라이 릴리,슐럼버거,P&G,CVS 헬스,화이자,LLY.UN.Equity,SLB.UN.Equity,PG.UN.Equity,CVS.UN.Equity,PFE.UN.Equity,39.73322629
+2015-01-01,포드 모터 컴퍼니,할리버튼,골드만 삭스,블랙록,유니온 퍼시픽,F.UN.Equity,HAL.UN.Equity,GS.UN.Equity,BLK.UN.Equity,UNP.UN.Equity,79.03823209
+2015-02-01,모간스탠리,시스코 시스템즈,월트 디즈니,PNC 파이낸셜 서비스,메드트로닉,MS.UN.Equity,CSCO.UW.Equity,DIS.UN.Equity,PNC.UN.Equity,MDT.UN.Equity,76.39811684
+2015-03-01,골드만 삭스,브리스톨-마이어스 스큅,유니온 퍼시픽,보잉,엑슨 모빌,GS.UN.Equity,BMY.UN.Equity,UNP.UN.Equity,BA.UN.Equity,XOM.UN.Equity,37.67379903
+2015-04-01,머크,써모 피셔 사이언티픽,IBM,쓰리엠,엘러간,MRK.UN.Equity,TMO.UN.Equity,IBM.UN.Equity,MMM.UN.Equity,AGN.UN.Equity,57.79466179
+2015-05-01,EOG 리소시스,프라이스라인 그룹,아메리칸 타워,월트 디즈니,처브,EOG.UN.Equity,PCLN.UW.Equity,AMT.UN.Equity,DIS.UN.Equity,CB.UN.Equity,56.30996786
+2015-06-01,로우스,포드 모터 컴퍼니,CVS 헬스,처브,EOG 리소시스,LOW.UN.Equity,F.UN.Equity,CVS.UN.Equity,CB.UN.Equity,EOG.UN.Equity,54.74109842
+2015-07-01,사이먼 프로퍼티 그룹,로우스,화이자,브리스톨-마이어스 스큅,록히드 마틴,SPG.UN.Equity,LOW.UN.Equity,PFE.UN.Equity,BMY.UN.Equity,LMT.UN.Equity,91.66981753
+2015-08-01,콜게이트-팜올리브,시스코 시스템즈,애트나,존슨앤드존슨,애플,CL.UN.Equity,CSCO.UW.Equity,AET.UN.Equity,JNJ.UN.Equity,AAPL.UW.Equity,79.1267252
+2015-09-01,뉴욕멜론은행,포드 모터 컴퍼니,골드만 삭스,엑슨 모빌,몬산토,BK.UN.Equity,F.UN.Equity,GS.UN.Equity,XOM.UN.Equity,MON.UN.Equity,81.12492986
+2015-10-01,포드 모터 컴퍼니,로우스,스트라이커,머크,골드만 삭스,F.UN.Equity,LOW.UN.Equity,SYK.UN.Equity,MRK.UN.Equity,GS.UN.Equity,168.6972718
+2015-11-01,포드 모터 컴퍼니,시스코 시스템즈,엘러간,보잉,처브,F.UN.Equity,CSCO.UW.Equity,AGN.UN.Equity,BA.UN.Equity,CB.UN.Equity,76.97805039
+2015-12-01,스트라이커,슐럼버거,포드 모터 컴퍼니,처브,브리스톨-마이어스 스큅,SYK.UN.Equity,SLB.UN.Equity,F.UN.Equity,CB.UN.Equity,BMY.UN.Equity,56.1898139
+2016-01-01,아메리칸 엑스프레스,포드 모터 컴퍼니,애플,P&G,엑슨 모빌,AXP.UN.Equity,F.UN.Equity,AAPL.UW.Equity,PG.UN.Equity,XOM.UN.Equity,157.6520135
+2016-02-01,로우스,처브,애플,넥스트에라 에너지,브리스톨-마이어스 스큅,LOW.UN.Equity,CB.UN.Equity,AAPL.UW.Equity,NEE.UN.Equity,BMY.UN.Equity,46.52985498
+2016-03-01,처브,엘러간,제이피모간체이스,셰브론,애플,CB.UN.Equity,AGN.UN.Equity,JPM.UN.Equity,CVX.UN.Equity,AAPL.UW.Equity,42.51811065
+2016-04-01,아메리칸 엑스프레스,아메리칸 타워,INTC,암젠,슐럼버거,AXP.UN.Equity,AMT.UN.Equity,INTC.UW.Equity,AMGN.UW.Equity,SLB.UN.Equity,61.97553929
+2016-05-01,모간스탠리,아메리칸 엑스프레스,포드 모터 컴퍼니,몬산토,애트나,MS.UN.Equity,AXP.UN.Equity,F.UN.Equity,MON.UN.Equity,AET.UN.Equity,81.01459028
+2016-06-01,블랙록,메드트로닉,슐럼버거,INTC,퀄컴,BLK.UN.Equity,MDT.UN.Equity,SLB.UN.Equity,INTC.UW.Equity,QCOM.UW.Equity,60.09775127
+2016-07-01,로우스,유니온 퍼시픽,캐피털 원 파이낸셜,EOG 리소시스,P&G,LOW.UN.Equity,UNP.UN.Equity,COF.UN.Equity,EOG.UN.Equity,PG.UN.Equity,57.48565373
+2016-08-01,모간스탠리,아메리칸 엑스프레스,레이티온,INTC,홈디포,MS.UN.Equity,AXP.UN.Equity,RTN.UN.Equity,INTC.UW.Equity,HD.UN.Equity,79.01129661
+2016-09-01,제이피모간체이스,블랙록,아메리칸 타워,EOG 리소시스,맥도날드,JPM.UN.Equity,BLK.UN.Equity,AMT.UN.Equity,EOG.UN.Equity,MCD.UN.Equity,63.81809813
+2016-10-01,처브,제이피모간체이스,골드만 삭스,유니온 퍼시픽,푸르덴셜 파이낸셜,CB.UN.Equity,JPM.UN.Equity,GS.UN.Equity,UNP.UN.Equity,PRU.UN.Equity,94.81552033
+2016-11-01,마이크로소프트,슐럼버거,유나이티드헬스 그룹,IBM,제이피모간체이스,MSFT.UW.Equity,SLB.UN.Equity,UNH.UN.Equity,IBM.UN.Equity,JPM.UN.Equity,63.0157988
+2016-12-01,옥시덴털 페트롤리움,프라이스라인 그룹,머크,아메리칸 타워,처브,OXY.UN.Equity,PCLN.UW.Equity,MRK.UN.Equity,AMT.UN.Equity,CB.UN.Equity,63.40013252
