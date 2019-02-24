@@ -1,16 +1,13 @@
-Cosmo ¼ÒÇÁÆ®¿þ¾î ÀÎÀç±³À°¿ø¿¡¼­ Python ÇÁ·ÎÁ§Æ®¸¦ ÁøÇàÇÏ¿´½À´Ï´Ù.
-              	±æÀ» ´õ È¿À²ÀûÀ¸·Î Ã£µµ·Ï µµ¿ÍÁÙ ¼ö  ÀÖ´Â ¾Ë°í¸®Áò°ú Ãß°¡·Î TelegramÀ» ÀÌ¿ëÇÏ¿© Ã£°íÀÚ ÇÏ´Â µ¿³×¿Í °¡°Ô¸íÀ» ÀÔ·ÂÇÒ °æ¿ì ÁÖ¼Ò¸¦ ¾Ë·ÁÁÖ´Â Ãªº¿À» °³¹ßÇÏ¿´½À´Ï´Ù.
-              	Tensorflow¿Í ÄÉ¶ó½º¸¦ »ç¿ëÇÏ¿© ¼ýÀÚÀÎ½Ä ¸ðµ¨À» ¸¸µé¾ú°í opencv¸¦ »ç¿ëÇÏ¿© Ä«¸Þ¶ó¾ÈÀÇ Æ²À» ¸¸µé¾î Æ² ¾ÈÀÇ ÀúÀåµÈ »çÁø ¾ÈÀÇ ¼ýÀÚ¿Í ¹®ÀÚ¸¦ ÀÎ½ÄÇÏ¿´½À´Ï´Ù.
-              	ÀÎ½ÄµÈ ¼ýÀÚ,¹®ÀÚ¸¦ ¿À¶óÅ¬ µ¥ÀÌÅÍº£ÀÌ½º¿¡ ÀúÀåÇÏ°Ô ÇÏ¿´°í °ø°øµ¥ÀÌÅÍ¸¦ ÀÌ¿ëÇÏ¿© µ¥ÀÌÅÍº£ÀÌ½º¿¡ ÀúÀåµÈ ÁÖ¼ÒÀÇ À§µµ¿Í °æµµ °ªÀ» Áöµµ¿¡ º¸¿©ÁÖ°í
-              	ÁÖº¯ÀÇ »ó±ÇÁ¤º¸¸¦ º¸¿©ÁÖµµ·Ï ÇÏ¿´½À´Ï´Ù.
+Cosmo ì†Œí”„íŠ¸ì›¨ì–´ ì¸ìž¬êµìœ¡ì›ì—ì„œ Python í”„ë¡œì íŠ¸ë¥¼ ì§„í–‰í•˜ì˜€ìŠµë‹ˆë‹¤.
+ê¸¸ì„ ë” íš¨ìœ¨ì ìœ¼ë¡œ ì°¾ë„ë¡ ë„ì™€ì¤„ ìˆ˜  ìžˆëŠ” ì•Œê³ ë¦¬ì¦˜ê³¼ ì¶”ê°€ë¡œ Telegramì„ ì´ìš©í•˜ì—¬ ì°¾ê³ ìž í•˜ëŠ” ë™ë„¤ì™€ ê°€ê²Œëª…ì„ ìž…ë ¥í•  ê²½ìš° ì£¼ì†Œë¥¼ ì•Œë ¤ì£¼ëŠ” ì±—ë´‡ì„ ê°œë°œí•˜ì˜€ìŠµë‹ˆë‹¤. Tensorflowì™€ ì¼€ë¼ìŠ¤ë¥¼ ì‚¬ìš©í•˜ì—¬ ìˆ«ìžì¸ì‹ ëª¨ë¸ì„ ë§Œë“¤ì—ˆê³  opencvë¥¼ ì‚¬ìš©í•˜ì—¬ ì¹´ë©”ë¼ì•ˆì˜ í‹€ì„ ë§Œë“¤ì–´ í‹€ ì•ˆì˜ ì €ìž¥ëœ ì‚¬ì§„ ì•ˆì˜ ìˆ«ìžì™€ ë¬¸ìžë¥¼ ì¸ì‹í•˜ì˜€ìŠµë‹ˆë‹¤.ì¸ì‹ëœ ìˆ«ìž,ë¬¸ìžë¥¼ ì˜¤ë¼í´ ë°ì´í„°ë² ì´ìŠ¤ì— ì €ìž¥í•˜ê²Œ í•˜ì˜€ê³  ê³µê³µë°ì´í„°ë¥¼ ì´ìš©í•˜ì—¬ ë°ì´í„°ë² ì´ìŠ¤ì— ì €ìž¥ëœ ì£¼ì†Œì˜ ìœ„ë„ì™€ ê²½ë„ ê°’ì„ ì§€ë„ì— ë³´ì—¬ì£¼ê³  ì£¼ë³€ì˜ ìƒê¶Œì •ë³´ë¥¼ ë³´ì—¬ì£¼ë„ë¡ í•˜ì˜€ìŠµë‹ˆë‹¤.
 
-apart.xlsx : ÀÔ·Â ÁÖ¼ÒÀÇ À§µµ ¹× °æµµ¸¦ °¡Á®¿À±â À§ÇÑ xlsx ÆÄÀÏ
-haarcascade_eye.xml : ´« ÀÎ½Ä ¸ðµ¨À» ¸¸µé±â À§ÇÑ xml µ¥ÀÌÅÍ
-haarcascade_frontalface_default.xml : ¾ó±¼ ÀÎ½Ä ¸ðµ¨À» ¸¸µé±â À§ÇÑ xml µ¥ÀÌÅÍ
-Model.py : ¾ó±¼ ¹× ´« ÀÎ½Ä ¸ðµ¨À» ¸¸µé±â À§ÇÑ py ÄÚµå
-seoul ÀÏºÎ: ¼­¿ï ÀüÃ¼ Áö¿ªÀÇ °ü±¤, À½½Ä, ÀÇ·á, ÇÐ½À ¹× ±³À° µî ´Ù¾çÇÑ ºÐ¾ßÀÇ »ó±ÇÁ¤º¸ µ¥ÀÌÅÍ (°ø°øµ¥ÀÌÅÍ, À§µµ °æµµ Æ÷ÇÔ)
-test.jpg : ¾ó±¼ ¹× ¹®ÀÚ ÀÎ½ÄÀ» À§ÇÑ Å×½ºÆ® jpg
-ÁÖ¼Ò ÀÎ½Ä ÈÄ Áöµµ º¸¿©ÁÖ±â: jupyter notebook¿¡¼­ÀÇ ¾ó±¼ ¹× ¹®ÀÚ ÀÎ½Ä ÈÄ foliumÀ» »ç¿ëÇØ Áöµµ¿¡ ÀÚ½ÅÀÇ À§Ä¡¿Í ÁÖº¯ »ó±ÇÁ¤º¸¸¦ º¸¿©ÁÖ°í ÀÌ¸¦ Ãªº¿¿¡µµ Àû¿ëÇÏ´Â ipynb ÄÚµå 
+apart.xlsx : ìž…ë ¥ ì£¼ì†Œì˜ ìœ„ë„ ë° ê²½ë„ë¥¼ ê°€ì ¸ì˜¤ê¸° ìœ„í•œ xlsx íŒŒì¼ ìž…ë‹ˆë‹¤
+haarcascade_eye.xml : ëˆˆ ì¸ì‹ ëª¨ë¸ì„ ë§Œë“¤ê¸° ìœ„í•œ xml ë°ì´í„° ìž…ë‹ˆë‹¤
+haarcascade_frontalface_default.xml : ì–¼êµ´ ì¸ì‹ ëª¨ë¸ì„ ë§Œë“¤ê¸° ìœ„í•œ xml ë°ì´í„° ìž…ë‹ˆë‹¤
+Model.py : ì–¼êµ´ ë° ëˆˆ ì¸ì‹ ëª¨ë¸ì„ ë§Œë“¤ê¸° ìœ„í•œ py ì½”ë“œ ìž…ë‹ˆë‹¤
+seoul ì¼ë¶€: ì„œìš¸ ì „ì²´ ì§€ì—­ì˜ ê´€ê´‘, ìŒì‹, ì˜ë£Œ, í•™ìŠµ ë° êµìœ¡ ë“± ë‹¤ì–‘í•œ ë¶„ì•¼ì˜ ìƒê¶Œì •ë³´ ë°ì´í„° (ê³µê³µë°ì´í„°, ìœ„ë„ ê²½ë„ í¬í•¨) ìž…ë‹ˆë‹¤
+test.jpg : ì–¼êµ´ ë° ë¬¸ìž ì¸ì‹ì„ ìœ„í•œ í…ŒìŠ¤íŠ¸ jpg ìž…ë‹ˆë‹¤
+ì£¼ì†Œ ì¸ì‹ í›„ ì§€ë„ ë³´ì—¬ì£¼ê¸°: jupyter notebookì—ì„œì˜ ì–¼êµ´ ë° ë¬¸ìž ì¸ì‹ í›„ foliumì„ ì‚¬ìš©í•´ ì§€ë„ì— ìžì‹ ì˜ ìœ„ì¹˜ì™€ ì£¼ë³€ ìƒê¶Œì •ë³´ë¥¼ ë³´ì—¬ì£¼ê³  ì´ë¥¼ ì±—ë´‡ì—ë„ ì ìš©í•˜ëŠ” ipynb ì½”ë“œ 
 
-* ¸¸µé¾îÁø modelÀ» ¾÷·Îµå ÇÏ·Á°í ÇÏ¿´À¸³ª ´ë¿ë·®ÀÌ¿©¼­ ¾÷·ÎµåÇÏÁö ¸øÇÏ¿´½À´Ï´Ù. 
-* seoul.csvÀÇ »ó±Ç ¾÷Á¾À» Á¾·ùº°·Î ¸ðµÎ ¾÷·Îµå ÇÏ·Á°í ÇÏ¿´À¸³ª ´ë¿ë·®ÀÌ¿©¼­ ÀÏºÎ ¾÷Á¾¸¸ ¾÷·ÎµåÇÏ¿´½À´Ï´Ù.
+* ë§Œë“¤ì–´ì§„ modelì„ ì—…ë¡œë“œ í•˜ë ¤ê³  í•˜ì˜€ìœ¼ë‚˜ ëŒ€ìš©ëŸ‰ì´ì—¬ì„œ ì—…ë¡œë“œí•˜ì§€ ëª»í•˜ì˜€ìŠµë‹ˆë‹¤. 
+* seoul.csvì˜ ìƒê¶Œ ì—…ì¢…ì„ ì¢…ë¥˜ë³„ë¡œ ëª¨ë‘ ì—…ë¡œë“œ í•˜ë ¤ê³  í•˜ì˜€ìœ¼ë‚˜ ëŒ€ìš©ëŸ‰ì´ì—¬ì„œ ì¼ë¶€ ì—…ì¢…ë§Œ ì—…ë¡œë“œí•˜ì˜€ìŠµë‹ˆë‹¤.
