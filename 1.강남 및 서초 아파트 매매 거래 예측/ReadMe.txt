@@ -1,8 +1,12 @@
 
-강남 및 서초 아파트 매매 거래 예측
-a.csv: 2014~2016 까지의 강남 및 서초 아파트 매매 거래 가격 및 대출금리, 역세권, 학생수, 아파트 정보, 전용면적 등을 정제한 최종 데이터
-ConfusionMatrix & ROC.html: ConfusionMatrix Specificity와 Sensitivity를 이용하여 ROC 그래프를 출력하는 코드 html
-ConfusionMatrix.html : ConfusionMatrix를 사용하여 모델의 정확도 및 재현도를 출력하는 코드 html
-Main-mape.html: 모델의 평균절대 백분율 오차를 구하기 위해 MAPE를 이용하여 월별 오차도를 표시한 그래프를 출력하기 위한 코드 html
-Regression.html: 다중회귀분석을 이용하여 모델을 만들고 그래프로 출력하는 코드 html
-강남 및 서초 아파트 매매예측.pptx: 최종 발표 ppt
+전공 프로젝트로 합리적인 아파트 구매 의사결정에 도움을 주기 위한 아파트의 매매값을 예측하는 예측 모델을 만들었습니다. 부동산 커뮤니 웹 크롤링 자료를 시각화하여 분양가,Trend,아파트 가격,전용면적 등 설명변수를 채택하였습니다.
+추가로 역세권,학생 수 등 생활 변수와 경제변수를 추가로 정제하였습니다. SPSS와 R언어를 이용하여 3만여 개의 데이터를 수집 및 분석을 하였습니다. Decision Tree,Linear Model 를 이용하여 분석하였습니다.
+모델의 오차를 구하기 위해 MAPE(평균절대백분율 오차)을 사용하였습니다.위의 2개의 분석 모델을 MAPE으로  비교하여 오차가 적게 나타난 Decision Tree모델을 최종 모델로 채택하였습니다. 그 결과 전용면적,역세권,아파트 트렌드순으로 내년 아파트 매매값에 영향을 줄 것이라 예상하였습니다
+             	
+
+a.csv: 2014~2016 까지의 강남 및 서초 아파트 매매 거래 가격 및 대출금리, 역세권, 학생수, 아파트 정보, 전용면적 등을 정제한 최종 데이터입니다
+ConfusionMatrix & ROC.html: ConfusionMatrix Specificity와 Sensitivity를 이용하여 ROC 그래프를 출력하는 코드 html 입니다
+ConfusionMatrix.html : ConfusionMatrix를 사용하여 모델의 정확도 및 재현도를 출력하는 코드 html 입니다
+Main-mape.html: 모델의 평균절대 백분율 오차를 구하기 위해 MAPE를 이용하여 월별 오차도를 표시한 그래프를 출력하기 위한 코드 html 입니다
+Regression.html: 다중회귀분석을 이용하여 모델을 만들고 그래프로 출력하는 코드 html 입니다
+강남 및 서초 아파트 매매예측.pptx: 최종 발표 ppt 
